@@ -18,3 +18,15 @@ ul {
 .hero-container {
   display: flex;
 }
+
+.first-section {
+  display: flex;
+  flex-direction: column;
+}
+
+/* 
+.hero-container,
+.header {
+  border: 2px dotted blue;
+  width: 70%;
+} */
