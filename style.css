@@ -18,6 +18,8 @@ ul {
 
 .hero-container {
   display: flex;
+  flex: 1;
+  align-items: center;
 }
 
 .first-section {
@@ -28,10 +30,3 @@ ul {
   color: #f9faf8;
   height: 450px;
 }
-
-/* 
-.hero-container,
-.header {
-  border: 2px dotted blue;
-  width: 70%;
-} */
