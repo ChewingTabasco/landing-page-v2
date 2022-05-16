@@ -20,6 +20,7 @@ ul {
   display: flex;
   flex: 1;
   align-items: center;
+  justify-content: space-between;
 }
 
 .first-section {
