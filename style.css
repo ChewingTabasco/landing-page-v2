@@ -30,3 +30,7 @@ ul {
   color: #f9faf8;
   height: 450px;
 }
+
+.image-placeholder {
+  background-color: gray;
+}
