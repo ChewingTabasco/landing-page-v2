@@ -34,3 +34,8 @@ ul {
 .image-placeholder {
   background-color: gray;
 }
+
+.hero-container,
+.header {
+  max-width: 70%;
+}
