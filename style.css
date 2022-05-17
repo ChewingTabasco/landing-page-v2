@@ -30,10 +30,10 @@ ul {
 
 .first-section {
   display: flex;
-  flex-direction: column;
   background-color: #1f2937;
   color: #f9faf8;
   height: 450px;
+  justify-content: center;
 }
 
 .image-placeholder {
