@@ -39,4 +39,6 @@ ul {
 
 .image-placeholder {
   background-color: gray;
+  width: 50%;
+  flex-shrink: 0;
 }
