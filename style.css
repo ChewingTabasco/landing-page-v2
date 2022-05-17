@@ -23,6 +23,11 @@ ul {
   justify-content: space-between;
 }
 
+.content-border {
+  display: flex;
+  flex-direction: column;
+}
+
 .first-section {
   display: flex;
   flex-direction: column;
