@@ -26,6 +26,7 @@ ul {
 .content-border {
   display: flex;
   flex-direction: column;
+  max-width: 80%;
 }
 
 .first-section {
