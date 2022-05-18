@@ -74,3 +74,8 @@ li,
 .title-container {
   width: 40%;
 }
+
+.second-section {
+  display: flex;
+  justify-content: center;
+}
