@@ -45,8 +45,9 @@ ul {
 
 .image-placeholder {
   background-color: gray;
-  width: 50%;
+  width: 45%;
   flex-shrink: 0;
+  height: 50%;
 }
 
 .hero-sub-text,
