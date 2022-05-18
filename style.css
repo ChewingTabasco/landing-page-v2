@@ -102,3 +102,8 @@ li,
   display: flex;
   justify-content: center;
 }
+
+.square-container {
+  width: 175px;
+  text-align: center;
+}
