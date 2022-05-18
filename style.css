@@ -70,3 +70,8 @@ li,
   border-radius: 6px;
   margin-top: 12px;
 }
+
+.title-container {
+  width: 40%;
+  height: 50%;
+}
