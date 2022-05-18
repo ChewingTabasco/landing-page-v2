@@ -90,3 +90,9 @@ li,
 .info-sub-container {
   display: flex;
 }
+
+.info-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
