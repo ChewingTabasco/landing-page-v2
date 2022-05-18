@@ -47,3 +47,8 @@ ul {
   width: 50%;
   flex-shrink: 0;
 }
+
+.hero-sub-text,
+li {
+  font-size: 18px;
+}
