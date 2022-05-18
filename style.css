@@ -31,7 +31,7 @@ ul {
 .content-border {
   display: flex;
   flex-direction: column;
-  max-width: 80%;
+  max-width: 75%;
 }
 
 .first-section {
