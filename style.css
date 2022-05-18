@@ -86,3 +86,7 @@ li,
   height: 175px;
   width: 175px;
 }
+
+.info-sub-container {
+  display: flex;
+}
