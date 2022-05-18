@@ -89,6 +89,7 @@ li,
 
 .info-sub-container {
   display: flex;
+  justify-content: space-between;
 }
 
 .info-container {
