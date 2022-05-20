@@ -194,3 +194,7 @@ h2 {
   justify-content: center;
   align-items: center;
 }
+
+.footer > p {
+  color: #e5e7eb;
+}
