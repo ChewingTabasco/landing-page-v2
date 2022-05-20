@@ -67,8 +67,8 @@ li,
 
 #button-one {
   background-color: #3882f6;
-  padding: 6px 24px;
-  border: none;
+  padding: 6px 35px;
+  border: solid 2px #3882f6;
   border-radius: 6px;
   margin-top: 12px;
 }
