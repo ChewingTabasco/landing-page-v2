@@ -91,6 +91,7 @@ li,
 .info-sub-container {
   display: flex;
   justify-content: space-between;
+  width: 100%;
 }
 
 .info-container {
