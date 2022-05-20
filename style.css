@@ -166,4 +166,7 @@ h2 {
   width: 70%;
   height: 50%;
   border-radius: 10px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
 }
