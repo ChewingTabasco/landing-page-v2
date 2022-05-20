@@ -134,4 +134,7 @@ h2 {
 .quote-content-border {
   width: 50%;
   height: 425px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
