@@ -52,7 +52,8 @@ ul {
 
 .hero-sub-text,
 li,
-#button-one {
+#button-one,
+#cta-sub-text {
   font-size: 18px;
   color: #e5e7eb;
 }
