@@ -129,6 +129,7 @@ h2 {
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color: #e5e7eb;
 }
 
 .quote-content-border {
