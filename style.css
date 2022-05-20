@@ -124,3 +124,8 @@ h2 {
 .square-container > p {
   font-size: 18px;
 }
+
+.quote-content-border {
+  width: 50%;
+  height: 425px;
+}
