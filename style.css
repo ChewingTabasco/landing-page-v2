@@ -190,4 +190,7 @@ h2 {
 .footer {
   height: 100px;
   background-color: #1f2937;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
